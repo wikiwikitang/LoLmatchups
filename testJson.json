@@ -1,0 +1,33 @@
+[
+  [
+    ["Gangplank", "Lissandra", "Malzahar", "Twitch", "Evelynn"],
+    ["Taric", "Fiddlesticks", "Rakan", "Warwick", "Sett"],
+    0
+  ],
+  [
+    ["Gangplank", "Lissandra", "Malzahar", "Twitch", "Taric"],
+    ["Taric", "Camille", "Taliyah", "Anivia", "Vladimir"],
+    0
+  ],
+
+  [
+    ["Sett", "Nasus", "TahmKench", "Ashe", "Quinn"],
+    ["Quinn", "Cassiopeia", "Kled", "Evelynn", "Galio"],
+    1
+  ],
+  [
+    ["Galio", "JarvanIV", "Annie", "Kled", "Vladimir"],
+    ["Vladimir", "Camille", "Kayn", "Taliyah", "Riven"],
+    1
+  ],
+  [
+    ["Riven", "Anivia", "Aatrox", "Kalista", "Renekton"],
+    ["Renekton", "Xerath", "Ahri", "Karma", "Tryndamere"],
+    1
+  ],
+  [
+    ["Tryndamere", "Urgot", "Poppy", "Senna", "Cassiopeia"],
+    ["Cassiopeia", "Taliyah", "Malphite", "Fiddlesticks", "Lux"],
+    0
+  ]
+]
