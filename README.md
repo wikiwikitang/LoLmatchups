@@ -1,3 +1,3 @@
 # LoLmatchups
 
-This is the solutions for the LoLmatchups
+This is the solution for the LoLmatchups
